@@ -1,6 +1,8 @@
 # Sample repo to create resources in two different regions
 
-[Official documentation](https://developer.hashicorp.com/terraform/language/providers/configuration#alias-multiple-provider-configurations)
+This specific example creates 2 EC2 instances in eu-central-1 (default) and eu-west-2 (alias) regions
+
+[Syntax and use case](https://developer.hashicorp.com/terraform/language/providers/configuration#alias-multiple-provider-configurations)
 
 
 # Prerequisites
